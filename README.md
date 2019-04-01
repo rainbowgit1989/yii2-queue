@@ -30,7 +30,7 @@ php composer.phar require --prefer-dist marchrainbow/yii2-queue
 or add
 
 ```
-"marchrainbow/yii2-queue": "~2.0.0"
+"marchrainbow/yii2-queue": "~1.0"
 ```
 
 to the require section of your `composer.json` file.
