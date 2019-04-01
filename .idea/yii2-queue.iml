@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/drivers/beanstalk" isTestSource="false" packagePrefix="yii\queue\beanstalk\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/drivers/gearman" isTestSource="false" packagePrefix="yii\queue\gearman\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/drivers/amqp_interop" isTestSource="false" packagePrefix="yii\queue\amqp_interop\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/drivers/db" isTestSource="false" packagePrefix="yii\queue\db\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/drivers/sync" isTestSource="false" packagePrefix="yii\queue\sync\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/drivers/file" isTestSource="false" packagePrefix="yii\queue\file\" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" packagePrefix="yii\queue\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/drivers/sqs" isTestSource="false" packagePrefix="yii\queue\sqs\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/drivers/amqp" isTestSource="false" packagePrefix="yii\queue\amqp\" />
+      <sourceFolder url="file://$MODULE_DIR$/src/drivers/redis" isTestSource="false" packagePrefix="yii\queue\redis\" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
